@@ -100,13 +100,7 @@ git clone https://github.com/your-username/quotes-intelligence-dashboard.git
 cd quotes-intelligence-dashboard
 ```
 
-### 2️⃣ Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run the Streamlit app
+### 2️⃣ Run the Streamlit app
 
 ```bash
 streamlit run app.py
